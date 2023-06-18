@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=HEY%20EVERYONE!&fontSize=70" />
+ </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ensaktrn&label=Profile%20views&color=0e75b6&style=flat" alt="ensaktrn" /> </p>
 
@@ -11,6 +12,7 @@ name: Enes Akturan
 located_in: Istanbul, Turkey
 education: Marmara University
   [
+    "Self-Taught Developer",
     "Electrical and Electronics Engineer student"
   ]
 
@@ -18,11 +20,8 @@ fields_of_interests:
   [
     "Artificial Intelligence",
     "Machine Learning",
-    "Back-end Development",
-    "Game Development",
-    
+    "Back-end Development"
   ]
-
   
 currently_learning: ["Machine Learning, Java"]
 2023 Goals: ["Create 3+ Projects"]
