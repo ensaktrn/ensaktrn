@@ -3,15 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ensaktrn&label=Profile%20views&color=0e75b6&style=flat" alt="ensaktrn" /> </p>
 
-- 🔭 I’m currently working on **artifical intellegence and backend development**
+<h2> 👨🏻‍💻 &nbsp;ABOUT ME</h2> 
 
-- 🌱 I’m currently learning **machine learning and Java Spring Boot.**
 
-- 🤝 I’m looking for help with **internship or part-time job**
+```yaml
+name: Enes Akturan
+located_in: Istanbul, Turkey
+education: Marmara University
+  [
+    "Electrical and Electronics Engineer student"
+  ]
 
-- 💬 Ask me about **anything.**
+fields_of_interests:
+  [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Back-end Development",
+    "Game Development",
+    
+  ]
 
-- 📫 How to reach me **enesakturan2002@gmail.com.**
+  
+currently_learning: ["Machine Learning, Java"]
+2023 Goals: ["Create 3+ Projects"]
+hobbies: ["Gaming", "Table Tennis", "Coding", "Travel"]
+``` 
+--- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
