@@ -13,7 +13,7 @@ located_in: Istanbul, Turkey
 education: Marmara University
   [
     "Self-Taught Developer",
-    "Electrical and Electronics Engineer student"
+    "Compter Science Engineer student"
   ]
 
 fields_of_interests:
