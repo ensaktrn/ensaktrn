@@ -12,7 +12,6 @@ name: Enes Akturan
 located_in: Istanbul, Turkey
 education: Marmara University
   [
-    "Self-Taught Developer",
     "Computer Science Engineer student"
   ]
 
@@ -23,9 +22,8 @@ fields_of_interests:
     "Back-end Development"
   ]
   
-currently_learning: ["Machine Learning, Java"]
-2023 Goals: ["Create 3+ Projects"]
-hobbies: ["Gaming", "Table Tennis", "Coding", "Travel"]
+currently_learning: ["Node.js", "Express.js", "React.js", "Next.js"]
+hobbies: ["Gaming", "Tennis", "Coding", "Travel"]
 ``` 
 --- 
 
