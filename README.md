@@ -17,12 +17,12 @@ education: Marmara University
 
 fields_of_interests:
   [
+    "Back-end Development"
     "Artificial Intelligence",
     "Machine Learning",
-    "Back-end Development"
   ]
   
-currently_learning: ["Node.js", "Express.js", "React.js", "Next.js"]
+currently_learning: ["ASP.Net", ".Net", "React.js", "Next.js"]
 hobbies: ["Gaming", "Tennis", "Coding", "Travel"]
 ``` 
 --- 
